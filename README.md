@@ -1,4 +1,4 @@
-# # 👩‍💻 Repositório de Estudos
+# 👩‍💻 Repositório de Estudos
 
 Repositório para organizar Matérias e Estudos.
 
@@ -23,3 +23,6 @@ Repositório para organizar Matérias e Estudos.
 ## CC50 HARVARD
 
 # ✍️ Resumos
+*
+*
+
