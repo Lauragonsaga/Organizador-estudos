@@ -14,19 +14,19 @@ Repositório para organizar Matérias e Estudos.
 
 # 📝 Matérias
 
-## DIO
+## DIO |
 *
 *
 
-## EBAC
+## EBAC |
 *
 *
 
-## ESTÁCIO
+## ESTÁCIO |
 *
 *
 
-## CC50 HARVARD
+## CC50 HARVARD |
 *
 *
 
