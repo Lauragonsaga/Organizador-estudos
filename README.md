@@ -4,13 +4,13 @@ Repositório para organizar Matérias e Estudos.
 
 # 🏫 Escolas
 
-[DIO](https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da?back=/track/santander-bootcamp-2023-backend-java&tab=undefined&moduleId=undefined)
+[DIO](https://www.dio.me/)
 
-[EBAC](https://lms.ebaconline.com.br/courses/0675fb1c-f893-451f-a4e9-b6863f36e0ee)
+[EBAC](https://ebaconline.com.br/)
 
-[ESTÁCIO](https://estudante.estacio.br/exercicios)
+[ESTÁCIO](https://estacio.br/inscricao?gclid=Cj0KCQjw9fqnBhDSARIsAHlcQYRBtLaPG_qhZZ-C7aYUB4u29QBSXiv5XrtLKogARXTeWI-I4A9O-LAaArkbEALw_wcB&gclsrc=aw.ds)
 
-[CC50 HARVARD](https://ead.napratica.org.br/enrollments/8925275/courses/84414/course_contents/2135055)
+[CS50 HARVARD](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
 # 📝 Matérias
 
