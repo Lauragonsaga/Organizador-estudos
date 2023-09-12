@@ -15,12 +15,17 @@ Repositório para organizar Matérias e Estudos.
 # 📝 Matérias
 
 ## DIO
-
+*
+*
 ## EBAC
-
+*
+*
 ## ESTÁCIO
-
+*
+*
 ## CC50 HARVARD
+*
+*
 
 # ✍️ Resumos
 *
